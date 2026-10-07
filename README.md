@@ -1,4 +1,3 @@
-
 Hi, I'm Amirhossein 👋
 
 Data Engineering • Python • SQL • Machine Learning
@@ -6,8 +5,6 @@ Data Engineering • Python • SQL • Machine Learning
 I'm a Computer Engineering student interested in Data Engineering, Data Processing, and Machine Learning.
 
 I learn by building practical projects and understanding how data moves from raw sources to useful information.
-
----
 
 🛠️ Skills
 
@@ -39,8 +36,6 @@ Tools
 - Docker
 - Linux / WSL
 
----
-
 🚀 Projects
 
 🌦️ Weather ETL Pipeline
@@ -59,9 +54,7 @@ Weather API
      ↓
   Database
 
-🔗 "View Project" (https://github.com/amirhosseinnikjo/weather_etl)
-
----
+"View Project" (https://github.com/amirhosseinnikjo/weather_etl)
 
 🛒 Online Store ETL
 
@@ -79,9 +72,7 @@ Transform
     ↓
 DuckDB
 
-🔗 "View Project" (https://github.com/amirhosseinnikjo/etl_online_store-)
-
----
+"View Project" (https://github.com/amirhosseinnikjo/etl_online_store-)
 
 📚 Currently Learning
 
@@ -91,15 +82,11 @@ DuckDB
 - Apache Airflow
 - Machine Learning
 
----
-
 🎯 Current Focus
 
 Building practical projects around:
 
 "Python → SQL → ETL → PostgreSQL → Docker → Machine Learning"
-
----
 
 📫 Connect
 
